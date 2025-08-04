@@ -5,7 +5,7 @@ No clutter. No complexity. Just clean tools that work.
 
 ---
 
-## [🐝 Beelyt – Offline Habit Tracker](https://austinwin.github.io/beelyt/)
+<h2><a href="https://austinwin.github.io/beelyt/" target="_blank">🐝 Beelyt – Offline Habit Tracker</a></h2
 
 A privacy-first, offline-capable habit tracker with no login, no sync, no AI.
 
