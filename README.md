@@ -14,5 +14,5 @@ A privacy-first, offline-capable habit tracker with no login, no sync, no AI.
 ![License](https://img.shields.io/github/license/austinwin/beelyt)
 ![Last Commit](https://img.shields.io/github/last-commit/austinwin/beelyt)  
 **✨ Key Features:**  
-💡 Minimal UI, mobile-friendly; 🔒 Works offline (PWA); ✅ No accounts, no tracking; ⭐ Flag important habits; 🔁 Import/Export as JSON
+<sub>**✨ Key Features:** 💡 Minimal UI, mobile-friendly · 🔒 Offline (PWA) · ✅ No accounts, no tracking · ⭐ Flag important habits · 🔁 Import/Export as JSON</sub>
 ---
