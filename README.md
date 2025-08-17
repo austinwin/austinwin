@@ -2,6 +2,15 @@
 
 I build **minimalist apps** - designed for myself, shared for anyone who finds them useful.  
 No clutter. No complexity. Just clean tools that work.
+---  
+## [⚡ Lifebite – Offline Daily Insight and personal advice]([https://austinwin.github.io/Lifebite/](https://austinwin.github.io/lifebite/))  
+
+A privacy-first, offline daily log and personal advice
+
+[![GitHub Repo](https://img.shields.io/badge/View-Code-blue)](https://github.com/austinwin/lifebite)
+![License](https://img.shields.io/github/license/austinwin/lifebite)
+![Last Commit](https://img.shields.io/github/last-commit/austinwin/lifebite)  
+<sub>Key Features: 💡 Minimal UI, mobile-friendly · 🔒 Offline (PWA) · ✅ No accounts, no tracking · ⭐ Daily insight and AI advice 🔁 Import/Export as JSON</sub>
 
 ---
 
