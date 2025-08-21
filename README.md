@@ -3,7 +3,7 @@
 I build **minimalist apps** - designed for myself, shared for anyone who finds them useful.  
 No clutter. No complexity. Just clean tools that work.
 ---  
-## [⚡ Lifebite – Offline Daily Insight and personal advice](https://austinwin.github.io/Lifebite/](https://austinwin.github.io/lifebite/)
+## [⚡ Lifebite – Offline Daily Insight and personal advice](https://austinwin.github.io/lifebite)
 
 A privacy-first, offline daily log and personal advice
 
