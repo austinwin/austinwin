@@ -12,7 +12,7 @@ Not a fan of vibe-coding! but Deep in "vibe-coding" mode-crafting minimal, high-
 * 🐝 **[Beelyt](https://github.com/austinwin/beelyt)** - The minimal habit tracker that stays out of your way. Launched on ProductHunt to bring simplicity back to consistency.
 * 🦷 **[LifeBite](https://github.com/austinwin/lifebite)** - A privacy-first PWA for logging the small but important moments of daily life. Uses AI to summarize your day without your data ever leaving the device.
 * 🛠️ **[rep-chrome](https://github.com/repplus/rep-chrome)** - (Contrib/Collab) Burp-style HTTP Repeater for Chrome DevTools with built-in AI for security analysis.
-* [🛠️] **[Minirep](https://github.com/austinwin/minirep)** - minirep is a Chrome DevTools extension for live request capture, API replay, response inspection, extractor-based recon, and AI-assisted security testing.   
+* 🛠️ **[Minirep](https://github.com/austinwin/minirep)** - minirep is a Chrome DevTools extension for live request capture, API replay, response inspection, extractor-based recon, and AI-assisted security testing.   
 * 🏗️ **[Memo](https://github.com/austinwin/memof)** - My personal sandbox and home for experimental web apps. 
 * 🦞 **[Many More...](https://github.com/austinwin?tab=repositories)** Explore the tools
 
